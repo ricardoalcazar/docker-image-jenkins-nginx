@@ -1,2 +1,2 @@
 # docker-nginx
-Docker image repository for Jenkins and Nginx.
+Docker image repository for nginx.
