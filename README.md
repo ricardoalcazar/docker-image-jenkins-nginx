@@ -1,2 +1,2 @@
-# docker-image-jenkins-nginx
-Docker image repository for Jenkins and Nginx.
+# docker-nginx
+Docker image repository for Nginx configured as a reverse-proxy for Jenkins.
